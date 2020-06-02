@@ -1,0 +1,19 @@
+h1, body, footer {
+	color: white;
+	font-size: 36px;
+	font-family: "showcard gothic";
+	background-color: black;
+	
+
+}
+
+table{
+	border:10px groove deeppink;
+}
+
+@font-face {
+
+      font-family: "Metallica";
+      src: url("../fonts/METOLD.TTF") format("truetype");
+
+      }

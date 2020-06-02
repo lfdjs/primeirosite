@@ -1,0 +1,59 @@
+table  {
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	position: relative;
+	color: white;
+	font-family: "comic sans ms";
+	background-color: black;
+	border: 10px groove red;
+	border-color: red;
+	border-radius: 20px;
+
+}
+
+th, tr, td {
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	position: relative;
+	color: white;
+	font-family: "comic sans ms";
+	background-color: black;
+	border: 10px outset red;
+	border-color: red;
+	
+
+}
+
+body {
+	color: white;
+	background-color: black;
+	font-family: "arial";
+
+}
+
+footer {
+	font-size: 36px;
+	font-family: "Lucida handwriting";
+
+}
+
+#nomelogado{
+ 		color:white;
+ 		text-align: right;
+ 		right:0;
+ 		width:100px;
+ 		position:relative;
+ 		left:92%;
+ 	}
+
+ 	#botaosair{
+ 		text-align: right;
+ 		right:0;
+ 		width:100px;
+ 		position:relative;
+ 		left:92%;
+ 	}

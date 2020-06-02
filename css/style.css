@@ -1,0 +1,50 @@
+header{
+            color: white;
+            font-size:40px;
+            font-style: normal;
+            font-family: "Stencil";
+            background-color: black;
+            background-size: 5%;
+            border: red outset 20px;
+            border-radius: 22px;
+            background-position: center;
+            position: relative;
+            text-align: center;
+            margin: auto;
+            border-spacing: 10px;
+            margin: 0cm 7cm 0cm 7cm;
+            
+
+        }
+        body{
+            background-color: black;
+            background-image: url("../img/chuva.gif")  ;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            font-size: 40px;
+            color: ghostwhite;
+            text-align: center;
+            font-style: italic;
+            
+            
+            
+        }
+        footer{
+            font-size: 40px;
+            color: floralwhite;
+            font-style: normal;
+            font-family: "Monotype Corsiva";
+            position: relative;
+            bottom:0;
+            top:0;
+            left:0;
+            right:0;
+            
+            
+            
+            
+            
+            
+        }
+        

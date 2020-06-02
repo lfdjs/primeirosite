@@ -1,0 +1,33 @@
+      body{
+         background-color: black
+         
+              }
+     h1, h2{
+         font-size: 40px;
+         color: white;
+         font-family: "showcard gothic";
+         border: 10px groove;
+         border-color: red;
+         border-radius: 10px;
+         background-color: darkslategray;
+         background-size: 30px;
+         align-content: center;
+              }
+     
+     fieldset {
+         color: whitesmoke;
+         font-style: normal;
+         font-family: "courier new";
+         border: 10px red groove;
+         border-radius: 40px;
+         
+     }
+     a{
+         color: ghostwhite;
+         text-align: center;
+         font: 30px;
+         font-family: "arial black";
+         border: 30px groove deeppink;
+         border-radius: 30px;
+         
+     }

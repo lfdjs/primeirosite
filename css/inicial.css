@@ -1,0 +1,42 @@
+#titulo, #rodape, #esquerda, #direita{
+	background-color: black;
+}
+
+
+h1, p, span {
+
+	color:white;
+	background-color: black;
+	
+}
+
+tr, td{
+	border: 20px red groove;
+}
+
+footer{
+	color:white;
+	font-size: 30px;
+	font-family: "Comic Sans MS"
+}
+
+a{
+	color:white;
+}
+
+	#nomelogado{
+ 		color:white;
+ 		text-align: right;
+ 		right:0;
+ 		width:100px;
+ 		position:relative;
+ 		left:90%;
+ 	}
+
+ 	#botaosair{
+ 		text-align: right;
+ 		right:0;
+ 		width:100px;
+ 		position:relative;
+ 		left:90%;
+ 	}

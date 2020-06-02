@@ -1,0 +1,100 @@
+body{
+ 	background-color: black
+ }
+
+	h1, footer{
+		color: white;
+		text-align:center;
+		font-size:30px;
+		border: 20px groove;
+		border-color: white;
+		/*border-spacing: 10px, 10px;*/
+		border-radius: 20px;
+		background-color: red;
+		position: relative;
+        
+			}	
+
+	fieldset {
+	border: 19px outset deeppink;
+	background-color:  gray;
+	border-radius: 25px;
+	font-family: "showcard gothic";
+
+
+
+
+}
+
+
+	legend {
+		color: yellow;
+		border: 7px outset blue;
+		border-radius: 9px;
+		background-color: green;
+		font-size: 35px;
+		font-family: "comic sans ms";
+
+}
+	label {
+	text-indent: 1;
+	color: yellow;
+	font-size: 25px;
+	font-family: "times new roman";
+	border: 5px;
+	border-color: green;
+	border-radius: 7px;
+}
+ 	span{
+ 	color: red;
+ }
+ 	
+ 	input[type="submit"], 	input[type="reset"], input[type="button"]
+ 	{
+ 		background-color: black;
+ 		border: 10px;
+ 		border-color: white;
+ 		border: 3px solid red;
+ 		border-radius: 6px;
+ 		color: white;
+ 	}
+
+ 	input[type="radio"]{
+ 		color: red;
+ 	}
+ 	option{
+ 		font: 22px;
+ 		font-color: red;
+ 		font-family: "arial black";
+ 		border: 1px ;
+
+ 	}
+
+ 	.formatarh3 {
+ 		color: white;
+		/*text-align:center;*/
+		font-size:30px;
+		border: 20px groove;
+		border-color: deeppink;
+		border-radius: 20px;
+		background-color: blue;
+
+ 	}
+
+ 	#nomelogado{
+ 		color:white;
+ 		text-align: right;
+ 		right:0;
+ 		width:100px;
+ 		position:relative;
+ 		left:92%;
+ 	}
+
+ 	#botaosair{
+ 		text-align: right;
+ 		right:0;
+ 		width:100px;
+ 		position:relative;
+ 		left:92%;
+ 	}
+
