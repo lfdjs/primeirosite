@@ -1,8 +1,8 @@
 <?php
-$local= "fdb14.biz.nf";
-$usuario = "2011625_lfdjs";
-$senha = "09silva10lfdjs1991luiz";
-$banco = "2011625_lfdjs";
+$local= "localhost";
+$usuario = "root";
+$senha = "1234";
+$banco = "website";
 
 $con = mysqli_connect ($local,$usuario,$senha) or die ("Erro ao conectar ao banco de dados<br>".mysqli_error());
 	/*if (!$con) {
